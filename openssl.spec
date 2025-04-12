@@ -1,7 +1,7 @@
 Summary: Utilities from the general purpose cryptography library with TLS implementation
 Name: openssl
 Epoch: 0
-Version: 3.4.0
+Version: 3.5.0
 Release: 1%{?dist}
 License: Apache-2.0
 URL: https://www.openssl.org
